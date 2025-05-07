@@ -1,3 +1,5 @@
+### Notice, written with ChatGPT because i was to lazy
+
 # 🏷️ Hentai Title Converter
 
 Ein Node.js-Tool zum vereinheitlichten Umbenennen von `.mp4`-Dateien anhand von Seriennamen und Episodennummern — ideal für Hentai-Ordner mit chaotischer Namensstruktur.
